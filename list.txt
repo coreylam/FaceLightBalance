@@ -1,0 +1,25 @@
+//=================================================================
+//Filename		:	list.txt
+//Description	:	文件清单
+//Date			:	2012/08/08 
+//=================================================================
+
+
+Face Light Balance
+		|
+		|
+		|----FLBinlude.h
+		|
+		|----FLBstd.h , FLBstd.cpp
+		|
+		|----FLBcore.h , FLBcore.cpp
+		|
+		|----FLBmagicwand.h , FLBmagicwand.cpp
+		|
+		|----FLBui.h , FLBui.cpp
+		|
+		|----FLBmain.cpp
+		|_
+
+	
+
